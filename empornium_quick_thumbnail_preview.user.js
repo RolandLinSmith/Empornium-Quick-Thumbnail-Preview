@@ -6,8 +6,18 @@
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_registerMenuCommand
-// @include     *empornium.me/*
-// @include     *pornbay.org/*
+// @include     http://www.empornium.me/torrents.php*
+// @include     http://www.empornium.me/user.php*
+// @include     http://www.empornium.me/collages.php?id*
+// @include     http://www.empornium.me/top10.php*
+// @include     http://pornbay.org/torrents.php*
+// @include     http://pornbay.org/user.php*
+// @include     http://pornbay.org/collages.php?id*
+// @include     http://pornbay.org/top10.php*
+// @include     https://pornbay.org/torrents.php*
+// @include     https://pornbay.org/user.php*
+// @include     https://pornbay.org/collages.php?id*
+// @include     https://pornbay.org/top10.php*
 // ==/UserScript==
 (function() {
     var keepVisible = false;
